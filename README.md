@@ -1,15 +1,18 @@
 # vitorrivas
+export const themes = {
+  default: {
+    title_color: "2f80ed",
+    icon_color: "4c71f2",
+    text_color: "434d58",
+    bg_color: "fffefe",
+    border_color: "e4e2e2",
+  },
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?vitorrivas=anuraghazra" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?vitorrivas=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-   ambient_gradient: {
-    title_color: "ffffff",
-    text_color: "ffffff",
-    icon_color: "ffffff",
-    bg_color: "35,4158d0,c850c0,ffcc70",
-  },
 </a><br>
 
 <div style="display: inline_block"><br>
