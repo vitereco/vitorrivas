@@ -6,10 +6,5 @@
   <img align="center" alt="vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <div>
- ambient_gradient: {
-    title_color: "ffffff",
-    text_color: "ffffff",
-    icon_color: "ffffff",
-    bg_color: "35,4158d0,c850c0,ffcc70",
-  },
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </div>
