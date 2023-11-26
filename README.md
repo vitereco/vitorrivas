@@ -4,6 +4,12 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?vitorrivas=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+   ambient_gradient: {
+    title_color: "ffffff",
+    text_color: "ffffff",
+    icon_color: "ffffff",
+    bg_color: "35,4158d0,c850c0,ffcc70",
+  },
 </a><br>
 
 <div style="display: inline_block"><br>
